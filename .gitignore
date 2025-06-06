@@ -1,0 +1,102 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment folders
+.venv/
+venv/
+env/
+ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# PyCharm settings
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Test coverage / pytest cache
+.coverage
+htmlcov/
+.tox/
+.nox/
+.cache/
+.pytest_cache/
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# Pipenv files
+Pipfile.lock
+
+# mypy / Pyright type checker files
+.mypy_cache/
+.pyre/
+.pytype/
+
+# PyInstaller
+*.spec
+
+# Environment variable files
+.env
+.env.*
+
+# SQLite database
+*.sqlite3
+
+# Sphinx documentation
+docs/_build/
+
+# Backup files
+*.bak
+*.tmp
+*.swp
+
+# Bandit security reports
+bandit_report.json
+
+# Poetry files
+poetry.lock
+
+# PDM
+__pypackages__/
+
+# Coverage reports
+coverage.xml
+
+# AWS SAM build artifacts
+.aws-sam/
+
+# Terraform
+.terraform/
+terraform.tfstate
+terraform.tfstate.*
+
+# Docker
+docker-compose.override.yml
+*.pid
+
+# Local dev db
+*.db
+
+# Mac system file
+.DS_Store
+
+# VSCode Launch Configurations
+.vscode/launch.json
+.vscode/settings.json
+.vscode/tasks.json
+
+db*/
